@@ -1,2 +1,10 @@
 # module-18
-Module 18
+Module 18 Analysis
+
+Dashboard #1: Shows the difference between the start and end stations based on latitude and longtitude
+Dashboard #2: Shows the differences between the males and females in the city data. Some factors it shows are the percentage of each gender and the distance for both the male and female
+
+
+Analysis describes the dashboards and any interesting data discoveries contained within them (5 points)
+Analysis on the chosen city official requested map detailing any noticeable trends (5 points)
+The written analysis references specific visualizations and interactive features (5 points)
